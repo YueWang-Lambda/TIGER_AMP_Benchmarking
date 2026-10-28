@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "AMPActiPred",
+  "seed": 127,
+  "condition": "with_negatives",
+  "elapsed_seconds": 32.91633653640747,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/ampacti_neg/sota_AMPActiPred+neg_s127_preds.csv"
+  ],
+  "source_manifest_sha256": "c7af22f11e29124ff99a309a99a22c61fec25963aa6c207058b56fd9982b5dd0"
+}

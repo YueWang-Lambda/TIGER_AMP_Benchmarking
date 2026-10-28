@@ -1,0 +1,174 @@
+{
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_amplit.py": {
+    "source": "39b23c05d4c4f22c1b685875beda6b979b2c161eb9b971e494dd0987e6494302",
+    "generated": "b80ead08da424a90052892436584a8af32af6e0be7d0d2cb199169350f7044f9"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_tsamp_neg.py": {
+    "source": "fc3218e8a57f7aabd871ff02a677cc3b57bd62e6919ea29ec2c586fc07afb8d7",
+    "generated": "0cd11739b3cfa712d56fa0de0d144a1ca08858e12229028c523671b45a163cc1"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_das_regressor.py": {
+    "source": "e62c31cba5b1de896b00991f49580cba6d01333444a44872f58131cb72746014",
+    "generated": "ee46e7f833cf1b578e1b3136611dde594f7df597758bbaecb21f5de7567d5717"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/apex-main/train_apex_lrfix_neg.py": {
+    "source": "1f8ff68c5e727ace99b3eabfee23a7e4a241741fb1e3b1bcd514d993eaa6be44",
+    "generated": "183768fd6c98382b4d41b08ae07a4916e22d3e5650e72284a7bcf37687847bd7"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/ggn_prepare.py": {
+    "source": "65bc09d172fabcba9175603f25f11600f035c4ed23040ed89b53408340faac12",
+    "generated": "9eeeaabf84f78cedcddf589fb8906a704e60e9c61aac18d0f91bfe447efc2cb4"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_amplit_regressor.py": {
+    "source": "273040780da9b5a9de63f8d18551b78e1d1e5849eadfed9d4864053c66cd6f3a",
+    "generated": "f476b08167aa323f20066399bc01bc5628559ed2fd964dcfd780434ce669f890"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_macrel_amp.py": {
+    "source": "c8162c474514a36eac17031ff2bb6f8dba568582419d0609971504442db04bb9",
+    "generated": "1be53d388cf3a54877307a1495759d0ea01b6cd9e5da0f063ce3d27296df275c"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_m3cad_mic.py": {
+    "source": "3d44722f5e43d30d6c3fcc61c1983b27033436003a4c84832d1ef0f069c40c16",
+    "generated": "0b85ce28f6dcb6b813084d51cc2220dc697f02d4eef34ca77e8e98ed6fdf91d5"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/build_m3cad_voxels.py": {
+    "source": "69a33d6675ceae300d0cd6316e68e8c82e6994ccf1276b60c6825d765f4ef95e",
+    "generated": "49680fbbb87d92231a362bf8606a6a5afc1a973095eaa205e75c2120a2639c55"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/perseed_ensemble_members.py": {
+    "source": "77c6109adf094961b857eeb562bedfd480e3af9663086d16b2d8571d4cf10153",
+    "generated": "4ea6b44396f4127318b87704173d7632cb2a9c5e9aecf308f6d415ae45ddeab5"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/AMP-Designer/train_ampd_restricted_neg.py": {
+    "source": "cd1a7b8f273207d42fc17de9d0d27b21fa7abb83d2ec64d5a37c96098362bfc3",
+    "generated": "21f95b50aa20eb09fb455c68940b9ac409cf9bcb2596b349c95a896ca7c649bf"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_eippred_neg.py": {
+    "source": "f24d6ecfc184279d7810d13b1bc5d269f54cada66df62e99e8301e7eef8e5945",
+    "generated": "787a80a868f8c60836552f61686e68ca80e1a5eecf5b7df5eacd95b266cb29bf"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_mbc_attention_neg.py": {
+    "source": "4def6eef470ef7c873c1e02757ccfc06e4c89c90fca099d8840489b762aaa6d0",
+    "generated": "5a67af322e0591a7868d065d4df33ae70eaa8ac3fe3574eebc2858cd2b8c91bc"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_deep_pie_gentle.py": {
+    "source": "e7307db21257a2d33e9085c7a470c96a49be56a585a4eda63d00ca5604f0444e",
+    "generated": "f50e0e2f7d8b1a3b9ab92d3994cab70ca471c4cc6d254c8526cfd6d6df88b71c"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_ggn_neg.py": {
+    "source": "a989083a1581da14afef53048f2b66d6381c91a34c6b2671dd577d7c9034e22b",
+    "generated": "50929f92a93d309b7589074cc2a3392bebe6b07c6719526089fb212c1f845e7c"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_amplit_regressor_fix.py": {
+    "source": "88dc3d52a8d022d1d6be84494bb1ddda27f74cfb34b60a52b526ff4d55789297",
+    "generated": "e7d1fcfd7eaf2f41a96d2e9eca2189e3b9fdb521bc1f8b6c1ee2ebe3ed250d88"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_das_2021.py": {
+    "source": "f6ebd582b161049c55b8883cbfc8415dca96bf66d5b1224a7341d6bbc3b58d4d",
+    "generated": "73a42a90da42ca8237fb5055594910b7ebd6231588fe61d0d6b7d44da85282b4"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_amppredictor_neg.py": {
+    "source": "87f21c5db8351454e2706ba1fc4870193a47b317162ef0d7a37bdf48a03f1c42",
+    "generated": "b02f05f5f2da0aab81cd49cdd9c05daaf5aace4703e7b6cc783368c69b8d5956"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/baseline/sota_bench/retrain_evo_strict.py": {
+    "source": "5b379773f39b9fe4c8268f5ddd360f9af911fb2367e19afc67641f8cd5d10c75",
+    "generated": "bdd33338378fa715deb2414389646e881eae3d59608ec35c860bab920d577cc1"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/amplit_utils1_reference.py": {
+    "source": "81eb9295d3af519d22098f1844629a748a96803b8d37f0a2b01a9470b07523ef",
+    "generated": "af50e1627c65d5007ef504c33d02c91e2e947d5621af94e4210ce23a8e4540d6"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/train_sota_bench.py": {
+    "source": "2f04ee66ea2a107ee921f3fd96fc67a3d9e9bf193cc243059fcdc1db39c0e44b",
+    "generated": "79ec5b4caec8294b42c17f58d13621ee146937050926e5400a1f4bbf7b6ac28b"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/extract_emb_new8.py": {
+    "source": "7a50419b96c634e2c908fd30d0ef3eff8267b399117057ae4cbea30d3a08d70e",
+    "generated": "7a50419b96c634e2c908fd30d0ef3eff8267b399117057ae4cbea30d3a08d70e"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/eval_apex_original.py": {
+    "source": "7f6a86b20ec4e11cd3ea227358318094bceb77ceeb21f1ac7a58a311daa6a14d",
+    "generated": "c8b71c5b4113252d3d151cd331159224bb208a8836a9c58e1eef6b1d4258e91c"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/build_uniprot_negatives.py": {
+    "source": "2da4e5089129dbf8a7cdc87aae69586668e4724d49d6aa7d8ac776e55f5d7719",
+    "generated": "2da4e5089129dbf8a7cdc87aae69586668e4724d49d6aa7d8ac776e55f5d7719"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_amplify_regr_neg.py": {
+    "source": "0df9347eceb63a4cd02135b36732ccc06ff06678393c93ac791e5333b8b5ab5a",
+    "generated": "541bec3d42174533752e91bc9254539e0de0897919c153ceea5cc8e57021e8a3"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/train_sota_bench_neg.py": {
+    "source": "6a8607949ad6497a018bc0afd8f874c1b4750395fa8abffe5edc13b1d4cc9ef2",
+    "generated": "1da7d3fe469890eee773b9925cca7d3559f4e77e6df5d709700731b54fb3fddd"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_sensexamp_neg.py": {
+    "source": "51a63de2fa952fa4358ca4a31fb23b9168bdffbc7a16ca0d221c6e48a0dbf5c8",
+    "generated": "de939aa4dd11812907a987ed1aa02a2754a5f9da67d08c1e296abaf84e545018"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_hydramp_mic.py": {
+    "source": "8efb67fd1f961562a79f82a9f1acd730e7ba76bdf48493e0b04b88cabc4eb42f",
+    "generated": "a011564ab0fef8f5917b8e5cca7a87c7af52cea3c6fefa5ae6b4b95cdc31ba25"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_deep_pie_log.py": {
+    "source": "e6d846858b343194c9d1068a4ca0e0ce6ea976e515245fbe9ff7bf9dfbc75d02",
+    "generated": "1b1ffa73f8779fd30fd0d5ad9634055dbb1fd05f983970a6d6a0f556e343be89"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/amplit_train_reference.py": {
+    "source": "e2e8a3fb25b24ed70b081ac21612d70ec80174e8d502f8b41819fdc64917794d",
+    "generated": "08574bc8d522f63aa6f5ec6eb95fc63682a6d0ada1c6e2f68b9975d0cc9c2bdc"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_hyperamp_neg.py": {
+    "source": "b48ebacedfd7cc93e9db6dfe378d96d38fd8698e9c87fe37864b0dba7fb3b109",
+    "generated": "449fc673400ddcd273e1c0a1fab556adb84443a34273efb790a809c682f0d1d2"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_bert_ampep_meanpool.py": {
+    "source": "894dd3b88f1e32f7c1725241edcb869e261f1cd65acae5851f5051ad411a239a",
+    "generated": "06ff75f2e04ddf1fba84a7e2ac4349c2877311b6bf5df8affe122ff21375598a"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_hydramp_regressor_neg.py": {
+    "source": "f354fd59edc48bc99faf7e204d600f9a329638808504955732b469251fe838da",
+    "generated": "921a7447810355ecce92708aa668e3cd27c0f0609035911b57babe6ecd2eefd6"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_ampacti_neg.py": {
+    "source": "bac2058f7b7788c6d3207cd5964661950703799a5b20f278b328d9727577a457",
+    "generated": "e0737a42d6efc3b921fcaccac7accd361d0fa1f6518a251a3c60a27a7f8d1650"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_deep_amp.py": {
+    "source": "54ef346c748e3c5e1ed51a180ebd76a61f8e1f6f3158cebee15eed5b1c3bcbe3",
+    "generated": "604d56bfb7188c8ae90578d663c996b4b2825f8189b141e1f9375d7d270dbf9d"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/ggn_prebuild_graphs.py": {
+    "source": "b47781d7d19bdd7dc57b4906cffd6965acafe19511c4a614a3b42dcb334ccc66",
+    "generated": "b47781d7d19bdd7dc57b4906cffd6965acafe19511c4a614a3b42dcb334ccc66"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_ania_neg.py": {
+    "source": "cc18bd45931d0eb2d5028f1f7e192f66ae939834be41edb26a5d5e6699962e4c",
+    "generated": "24d9ce83fadfd48de77a7e9abf29021972db83a404d78245585a01efe101f8ff"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_hydramp_mic_neg.py": {
+    "source": "9b1a64b3de55a314f59e8096a96defdd926886bd7a591f9e6aaea4dd8267e455",
+    "generated": "14035a40e91b5576884aae477b86c95cf0facbd649326d2f26a084cb9b184d37"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/apex_ensemble_tuning.py": {
+    "source": "766420353c274497ee3a10478d046ea67eabab364071110d08f44db512b12e95",
+    "generated": "d5ec463c1bd82548caa46a368e26ac48403da4798a094d1e8ed73832b6d0ca8c"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_ampgen_neg.py": {
+    "source": "9e29bfc8874be8965dcdd9194238bef99e6da539609a368cfce45c33e15b383b",
+    "generated": "a05c6e050dd3086e3ff88486095d07c3265e0c9aab1d0fb09a98b610086b234f"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/retrain_hydramp_regressor.py": {
+    "source": "a125a282798e770e7ffa0ed539c0d3c173a0da8cc1c2bb92f9b4a233f24bbc79",
+    "generated": "bf0ab20c13e182e6ff55ceddd01037377402af83a4ab218096e57df01aa0206a"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/eval_deep_pie_gentle.py": {
+    "source": "f270da7d33a6b47f39050005d091a96dfadf2b0cdfe970012b0843c4b0c5bc54",
+    "generated": "9e7cd1910c1d1cf16283e3d4961dc4875866bfbedd8183214ea11e2a9d1f954a"
+  },
+  "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/baseline/sota_bench/eval_evo_ckpt_dir.py": {
+    "source": "6618ce7bdf705907718c77d93259d04497d4b47928c918a181e994752a8e9ccb",
+    "generated": "350b7d728b4ec31b36926dac0b9d247b4ffa3624e36e5e779204624a1921878c"
+  }
+}

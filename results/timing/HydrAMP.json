@@ -1,0 +1,218 @@
+{
+  "status": "PASS",
+  "method": "HydrAMP",
+  "seed": 123,
+  "condition": "with_negatives",
+  "repeats_s": [
+    0.005412024445831776,
+    0.0048561058938503265,
+    0.004777800291776657,
+    0.004791166167706251,
+    0.004775846842676401,
+    0.004798448644578457,
+    0.0047810859978199005,
+    0.004777969792485237,
+    0.004774943925440311,
+    0.004782399162650108,
+    0.004762652330100536,
+    0.00478615565225482,
+    0.004799811635166407,
+    0.004794941749423742,
+    0.004778070840984583,
+    0.004775745794177055,
+    0.0047585139982402325,
+    0.004781476687639952,
+    0.0047755460254848,
+    0.004783741198480129
+  ],
+  "median_s": 0.004781281342729926,
+  "min_s": 0.0047585139982402325,
+  "max_s": 0.005412024445831776,
+  "device": "GPU:0 (RTX 4090 D)",
+  "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold8.pt": "8cc2818b63270a565b59a5d463f9b3ea17b09482ee7a231e1fc9c98ffbcc3e15",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold6.pt": "2542d28f8793e841c09dbfbc34e2f450b0bad3dc5034d488bbf940f292a627e5",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold5.pt": "65eb3eb76f3761fee9fc3c6641b22af887b585fc4244e2a06ebfc2f383e2a829",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold3.pt": "d46e8660fc582d09ba267b3761e19ee6b15135cfa87e5eeb223cebf6507196aa",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold4.pt": "6b6c4c8704d4cd3c12c6d3f29b90b2f53164c82385fea7ac05403fdbcb244255",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold1.pt": "110977eb1e95bfedd2093ff2d265410d37f466c7faf51e7088e5d100e310ba8c",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold9.pt": "ec721ca5fbf775290a871b5efd39a9fb73e8e129e2e57354334ec4d6fb2adba0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold7.pt": "4a0066d9eee8d4e15952a36d2eb27acd67e6ce44bece2f6be529dcaab9e7dd8a",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold10.pt": "940330280a2d1ea2c51da829ed211cffbd0a991e96bf4ee4749b4efda4e89353",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed123/workspace/runs_review/benchmark_restricted/sota_models/hydramp_regr_neg/fold2.pt": "de1ce3a4fefdf4aeef85d5caa2e864fd23b5c5008116d81f823cf8548c503b2a"
+  },
+  "checks": [
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 2.384185791015625e-07,
+      "mean_abs_diff": 2.0345816294551856e-08,
+      "max_abs_pair_diff": 7.92009379413372e-07,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    }
+  ],
+  "peptide_tolerance": 0.001,
+  "protocol": "1 warm-up + 20 repeats; loaded evaluated seed123; live features + 2211 log2 pairs; model loading excluded; validation outside clock",
+  "acceptance_only": false
+}

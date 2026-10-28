@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "HyperAMP",
+  "seed": 125,
+  "condition": "with_negatives",
+  "elapsed_seconds": 271.86013555526733,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_hyperamp_neg_s125_preds.csv"
+  ],
+  "source_manifest_sha256": "4dbdc84cddf0364cd759b3edd455bb19fc47a25659fc9e17212467773ccb6fd0"
+}

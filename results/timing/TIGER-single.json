@@ -1,0 +1,209 @@
+{
+  "status": "PASS",
+  "method": "TIGER-single",
+  "seed": 123,
+  "condition": "with_negatives",
+  "median_s": 1.9658521984238178,
+  "min_s": 1.9547173739410937,
+  "max_s": 2.0758997262455523,
+  "repeats_s": [
+    1.9549534772522748,
+    1.9548819730989635,
+    2.0758997262455523,
+    1.9642407055944204,
+    1.9604649301618338,
+    1.975160205271095,
+    1.9594997940585017,
+    2.072685583960265,
+    1.9679149040021002,
+    1.9672621921636164,
+    1.9547173739410937,
+    2.0729765431024134,
+    1.9627852449193597,
+    1.9988455870188773,
+    1.9643262620083988,
+    2.066216306760907,
+    1.9687047000043094,
+    1.964442204684019,
+    1.9547548149712384,
+    2.069264497142285
+  ],
+  "checks": [
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.44994332779747e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.449943328907693e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.915564788074647e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.053078953627278e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.053078954182389e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.587457495570547e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.518700415014678e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.449943328907693e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.58745749668077e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.449943328907693e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.121836039734262e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.518700411684009e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.053078954182389e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.518700411684009e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.121836039734262e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 6.053078955847724e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.121836039734262e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.354646768207516e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 7.449943328907693e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.587457495570547e-07,
+      "calibrated_reference_match": true
+    },
+    {
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true,
+      "max_abs_pair_diff": 5.58745749668077e-07,
+      "calibrated_reference_match": true
+    }
+  ],
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/config.json": "48f0d552fd92b28cebe8ac5c7dea3856ac177155d460d4711d41419c467e27fa",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/results/calibrator.json": "347ccb2e5fea2bae5152db8d65f6ea135b77a402619bb7c84f0173bd858d1cd9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/reports/S4_study_nature_v16/source_snapshot/predictions/tiger/s4_single_n1n2_seed123.csv": "137295fbe437bee81ef34f24c5e1e5a5318c79909070969f408762f1fc776c7a",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold3_best.pt": "794e8b327247449478799267b1dcb38ac9e5ac37802be6a043d1008a62694993",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold4_best.pt": "d59e6e0364d74651ab1d377b9ea6b8b2abc2fbc55a47718f1db45d110f4182b9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold5_best.pt": "63bfd7f4e54b8a624a8efcfd192ac1b4513cd8767a9796cec69dbc911ee8f6d4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold1_best.pt": "687b4801aa775a09dca95cd6a9d84ba87cdf861205a489997bc2222cbfe28068",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold2_best.pt": "1ced5e5cdd803834bcbf498dcd7c655ffe5b52c803fe397e4b67031b04f641a0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold2.json": "56ebe31623ce0e526d4bfa15e5fe950b5b1ecf5a30af4b8163244b743706e953",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold2.json": "07b399bcfc36f3c1150d4a043a22cbcba7789f799a13c09de7b78fcd9f9e5de9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold5.json": "5909bcbdb39f6498377a5903299e16111d67efadf136087af0911d7d624ce856",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold3.json": "ea958585769ec3a15ae69638027e0ba73f69915ee32e9d64b358503d19c4cb96",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold4.json": "5903ef0e17123d08d72ba57c1fa67edd7b3b494d28e7c2603dc88920402a252d",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold1.json": "344b83bebb2ee1b3cea49e3faba91155055da3cf236c35a19a2c814e49cca5b0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold5.json": "57d501a19f583be6d5a0ef6ad1b1c7504c598123f643f676efc2b220eb7a7edc",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold1.json": "c52946697950cb91441231aac299baa70d55f66d9b73f5f8b667978c4d8d0cc4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold4.json": "91856b504f0a9d5d69f4518ec28484daf195b359c9e391ddb11af4d74c6ec2d6",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold3.json": "05ccb2f77a25e398a232d8af506f2ba7689735c2b3727558eb15414fd3d6ef6d"
+  },
+  "script_sha256": "64425361ad6a09a303b9ee4bfd7ad99d1bc14d2aa77c578824a12f8db18ae02c",
+  "device": "GPU:0 (NVIDIA GeForce RTX 4090 D)",
+  "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+  "timestamp": "2026-10-14T18:53:54+0800",
+  "cpu_threads": 2,
+  "structure_increment_s": 328.12,
+  "structure_increment_count": 1,
+  "single_lineage": "V16 s4_single_n1n2 / alias factor_S11",
+  "protocol": "Resident V16 seed123 five-fold single model; 1 warmup + 20 repeats; fresh live graph features, 2211 log2 differences, fold averaging and calibration included; model loading and value-level reference acceptance excluded."
+}

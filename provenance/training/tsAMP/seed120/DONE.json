@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "tsAMP",
+  "seed": 120,
+  "condition": "with_negatives",
+  "elapsed_seconds": 2314.3163175582886,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/tsamp_neg/sota_tsAMP-CS+neg_s120_preds.csv"
+  ],
+  "source_manifest_sha256": "9f474104f559d7a4b3c4d72b025f4b8c9f64e38f7b81176c5d01e72a5e9cb0be"
+}

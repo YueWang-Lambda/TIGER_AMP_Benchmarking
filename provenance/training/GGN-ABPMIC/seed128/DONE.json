@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "GGN-ABPMIC",
+  "seed": 128,
+  "condition": "with_negatives",
+  "elapsed_seconds": 5148.5179924964905,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/ggn_neg/sota_GGN-ABPMIC+neg_s128_preds.csv"
+  ],
+  "source_manifest_sha256": "aff9806263370061256a40dd59fb4a0c30cea13bf05f7043311bf37fc4246efb"
+}

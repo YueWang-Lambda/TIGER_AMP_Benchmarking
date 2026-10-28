@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "EvoGradient",
+  "seed": 120,
+  "condition": "with_negatives",
+  "elapsed_seconds": 787.2093489170074,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_evo_strict_preds.csv"
+  ],
+  "source_manifest_sha256": "48aae0ca0ced1c16eb95515d8eb45978401fc8afc67076fe2643dcc857e64074"
+}

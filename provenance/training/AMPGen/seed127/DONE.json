@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "AMPGen",
+  "seed": 127,
+  "condition": "with_negatives",
+  "elapsed_seconds": 135.0302231311798,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/ampgen_neg/sota_AMPgen+neg_s127_preds.csv"
+  ],
+  "source_manifest_sha256": "ebe104e519a084d47c56994a2d12051f436be74278ae31dde5944efd536fb759"
+}

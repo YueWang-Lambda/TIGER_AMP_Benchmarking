@@ -1,0 +1,7 @@
+stage,item,n,note
+1,raw CSV rows,11516,metadata/train_val_by_cfu_group_ug_per_mL.csv
+2,after MIC/length filters,7401,"3,986 non-E.coli/no-MIC + 129 length removed"
+3,"effective AMP pool (dedup seq×CFU, min-MIC)",7217,"6,847 unique sequences; 184 duplicate rows removed"
+4,"negative pool (NEVER paired, by protocol)",7860,"UniProt non-AMP, pseudo-label cap log2=13.29; manuscript-equivalent of inactive-template exclusion but structural"
+5,"candidate pairs (len±5 & NW>=0.7, quota-free)",35775,directed; seed121 fold-1 basis
+6,final training pairs (signed bal4000),27235,directed; per-fold constructed (5-fold CV); shown for seed121 fold-equivalent full pool

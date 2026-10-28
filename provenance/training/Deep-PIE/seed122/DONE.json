@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "Deep-PIE",
+  "seed": 122,
+  "condition": "with_negatives",
+  "elapsed_seconds": 1604.0194659233093,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_deep_pie_neg_s122_preds.csv"
+  ],
+  "source_manifest_sha256": "9dee46765c221f78e1546b748f826842d0a516912918b5fee46074b1dbbaf544"
+}

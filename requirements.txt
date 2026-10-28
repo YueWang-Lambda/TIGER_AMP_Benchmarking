@@ -1,0 +1,5 @@
+# Tested CPU-only prediction replay and visualization environment (Python 3.10).
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+matplotlib==3.8.4

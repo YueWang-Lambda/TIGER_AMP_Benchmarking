@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "AMPlify",
+  "seed": 121,
+  "condition": "with_negatives",
+  "elapsed_seconds": 17462.33255314827,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_amplify_regr_neg_s121_preds.csv"
+  ],
+  "source_manifest_sha256": "6e20d14caba1e0c2099ed904a3c637feb64975c1bf662d89a34418ae3234a575"
+}

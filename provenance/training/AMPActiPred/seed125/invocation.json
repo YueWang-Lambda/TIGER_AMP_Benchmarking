@@ -1,0 +1,14 @@
+{
+  "cmd": [
+    "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed125/workspace/baseline/sota_bench/retrain_ampacti_neg.py",
+    "--seed",
+    "125"
+  ],
+  "cwd": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed125/workspace/baseline/sota_bench",
+  "env": {
+    "CUDA_VISIBLE_DEVICES": "-1",
+    "OMP_NUM_THREADS": "2",
+    "PYTHONPATH": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed125/workspace"
+  }
+}

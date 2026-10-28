@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "DeepAMP",
+  "seed": 124,
+  "condition": "with_negatives",
+  "elapsed_seconds": 388.4432997703552,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_deep_amp_cnn_preds.csv"
+  ],
+  "source_manifest_sha256": "24bacc55bd74b196bad8ec7f1a126a17c5afde2431aad43becf6575e6435a200"
+}

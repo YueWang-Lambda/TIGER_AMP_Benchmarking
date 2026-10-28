@@ -1,0 +1,19 @@
+name: Verify benchmark release
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: pip
+      - run: python -m pip install -r requirements.txt
+      - run: python code/verify_release.py
+      - run: python -m unittest discover -s tests -v
+      - run: python code/evaluate.py --check-reference
+      - run: python code/plot_results.py

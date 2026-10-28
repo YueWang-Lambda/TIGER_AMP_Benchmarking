@@ -1,0 +1,18 @@
+{
+  "runtime": "isolated_tf_cuda11",
+  "prefix": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15",
+  "executable": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+  "pid": 1662773,
+  "target": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPlify/seed128/workspace/baseline/sota_bench/retrain_amplify_regr_neg.py",
+  "physical_gpu_index": 1,
+  "memory_cap_mib": 1024,
+  "tensorflow": "2.12.1",
+  "threads": 2,
+  "execution": "eager",
+  "tf32_enabled": false,
+  "graph_options": {
+    "arithmetic_optimization": false,
+    "disable_model_pruning": false,
+    "disable_meta_optimizer": false
+  }
+}

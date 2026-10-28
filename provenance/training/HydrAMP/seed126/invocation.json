@@ -1,0 +1,14 @@
+{
+  "cmd": [
+    "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed126/workspace/baseline/sota_bench/retrain_hydramp_regressor_neg.py",
+    "--seed",
+    "126"
+  ],
+  "cwd": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed126/workspace/baseline/sota_bench",
+  "env": {
+    "CUDA_VISIBLE_DEVICES": "0",
+    "OMP_NUM_THREADS": "2",
+    "PYTHONPATH": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/HydrAMP/seed126/workspace"
+  }
+}

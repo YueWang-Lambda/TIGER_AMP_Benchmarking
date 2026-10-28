@@ -1,0 +1,15 @@
+{
+  "cmd": [
+    "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed120/workspace/baseline/sota_bench/retrain_mbc_attention_neg.py",
+    "--seeds",
+    "120-120",
+    "--cpu"
+  ],
+  "cwd": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed120/workspace/baseline/sota_bench",
+  "env": {
+    "CUDA_VISIBLE_DEVICES": "-1",
+    "OMP_NUM_THREADS": "2",
+    "PYTHONPATH": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed120/workspace/baseline/sota_bench"
+  }
+}

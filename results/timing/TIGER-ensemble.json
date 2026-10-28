@@ -1,0 +1,439 @@
+{
+  "status": "PASS",
+  "method": "TIGER-ensemble",
+  "seed": 123,
+  "condition": "with_negatives",
+  "median_s": 3.9685140277724713,
+  "min_s": 3.954477583989501,
+  "max_s": 4.074193891137838,
+  "repeats_s": [
+    4.072732530999929,
+    3.9656773968599737,
+    4.053859646897763,
+    3.95558547321707,
+    3.965343037620187,
+    4.067352302838117,
+    3.9567424110136926,
+    4.074193891137838,
+    3.964754455257207,
+    3.954477583989501,
+    4.0583264152519405,
+    3.9653100008144975,
+    4.063963340129703,
+    3.982315483968705,
+    3.971350658684969,
+    4.067254299297929,
+    3.9632760379463434,
+    4.0665493961423635,
+    3.9595353580079973,
+    3.958139686845243
+  ],
+  "checks": [
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.144712723672342e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.984321869740739e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.940792908136871e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 8.77887573774716e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.58745749668077e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.412265180442354e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.574655854185707e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.984321869740739e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 3.985760115288173e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.318130265636768e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.053078953627278e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.0903080489318455e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.764674809200955e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.518700411684009e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.77920177877067e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.717170072390033e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.05307895806817e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.5796818762267044e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.101958456878776e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.51870041223912e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 3.995261062400557e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.866784751953126e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.121836039734262e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 3.9548632801977845e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.612659646521024e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.58745749668077e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.1807170869656574e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 8.246822662538733e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.51870041223912e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.142713296850786e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.106708930226802e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.518700415014678e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.34230821688697e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.840682393871589e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.587457495570547e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.035883898190207e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 8.512849194453054e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.518700415014678e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.489235325699781e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.296727885797161e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.121836039734262e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 5.090376573035904e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.992697558771965e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.121836037513816e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.022763830657805e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.144712721451896e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 7.449943328907693e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.6367625783361177e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.676765796660323e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 7.915564788074647e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.936004924793735e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.840682391651143e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 7.915564788074647e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 3.712701635016913e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 7.239722197294185e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 5.58745749668077e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.503899346808282e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 8.056803704192816e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.05307895806817e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.589182822645199e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    },
+    {
+      "P11": {
+        "max_abs_pair_diff": 6.764674810311178e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "S11": {
+        "max_abs_pair_diff": 6.984321869740739e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      },
+      "TIGER-ensemble": {
+        "max_abs_pair_diff": 4.3659480600949374e-07,
+        "n_pair": 2211,
+        "all_finite": true
+      }
+    }
+  ],
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/config.json": "125752dc7f9f251b7e123174115d8afa136344673b471bd71470835795c8e55e",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/results/calibrator.json": "5fe9ab36ccc2c8d3bc78977bb90a59664c196247ce93dfd922b6018ad5d19373",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/reports/S4_study_nature_v17/source_snapshot/predictions/tiger/factor_P11_seed123.csv": "760d10a6c6b894b54d5304ed3336e26e32fc986ae298f49c9972dbcdadefe989",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/checkpoints/fold3_best.pt": "dde9e3b6b746b7ec7bae7080508da92cfa61d964f950a92f103ffdc14281ab82",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/checkpoints/fold4_best.pt": "905773aaec4306b1edaeeeef58dad255692410782e0e36655d5a44c2204620e8",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/checkpoints/fold5_best.pt": "8078176c3e0059b271510d255dc89b6f6cdd4d37cd28b9025bf9758d72e0ed25",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/checkpoints/fold1_best.pt": "8fd3831dce40c7f72d2a898bbf07fa1eca25ca5796fa23e1d4f7451b815b9792",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/checkpoints/fold2_best.pt": "df7715545e282c0c44a0493a45c8763ab9fdaf1a3f400a88a607963d66c95981",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/node_feature_zscore_fold2.json": "56ebe31623ce0e526d4bfa15e5fe950b5b1ecf5a30af4b8163244b743706e953",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/p_feature_zscore_fold2.json": "07b399bcfc36f3c1150d4a043a22cbcba7789f799a13c09de7b78fcd9f9e5de9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/p_feature_zscore_fold5.json": "5909bcbdb39f6498377a5903299e16111d67efadf136087af0911d7d624ce856",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/node_feature_zscore_fold3.json": "ea958585769ec3a15ae69638027e0ba73f69915ee32e9d64b358503d19c4cb96",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/p_feature_zscore_fold4.json": "5903ef0e17123d08d72ba57c1fa67edd7b3b494d28e7c2603dc88920402a252d",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/node_feature_zscore_fold1.json": "344b83bebb2ee1b3cea49e3faba91155055da3cf236c35a19a2c814e49cca5b0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/node_feature_zscore_fold5.json": "57d501a19f583be6d5a0ef6ad1b1c7504c598123f643f676efc2b220eb7a7edc",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/p_feature_zscore_fold1.json": "c52946697950cb91441231aac299baa70d55f66d9b73f5f8b667978c4d8d0cc4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/node_feature_zscore_fold4.json": "91856b504f0a9d5d69f4518ec28484daf195b359c9e391ddb11af4d74c6ec2d6",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_bal_unsigned_bal20000/v16_p11_s4_bal_unsigned_bal20000_seed123/intermediate/p_feature_zscore_fold3.json": "05ccb2f77a25e398a232d8af506f2ba7689735c2b3727558eb15414fd3d6ef6d",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/config.json": "48f0d552fd92b28cebe8ac5c7dea3856ac177155d460d4711d41419c467e27fa",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/results/calibrator.json": "347ccb2e5fea2bae5152db8d65f6ea135b77a402619bb7c84f0173bd858d1cd9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/reports/S4_study_nature_v17/source_snapshot/predictions/tiger/s4_single_n1n2_seed123.csv": "137295fbe437bee81ef34f24c5e1e5a5318c79909070969f408762f1fc776c7a",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold3_best.pt": "794e8b327247449478799267b1dcb38ac9e5ac37802be6a043d1008a62694993",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold4_best.pt": "d59e6e0364d74651ab1d377b9ea6b8b2abc2fbc55a47718f1db45d110f4182b9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold5_best.pt": "63bfd7f4e54b8a624a8efcfd192ac1b4513cd8767a9796cec69dbc911ee8f6d4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold1_best.pt": "687b4801aa775a09dca95cd6a9d84ba87cdf861205a489997bc2222cbfe28068",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/checkpoints/fold2_best.pt": "1ced5e5cdd803834bcbf498dcd7c655ffe5b52c803fe397e4b67031b04f641a0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold2.json": "56ebe31623ce0e526d4bfa15e5fe950b5b1ecf5a30af4b8163244b743706e953",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold2.json": "07b399bcfc36f3c1150d4a043a22cbcba7789f799a13c09de7b78fcd9f9e5de9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold5.json": "5909bcbdb39f6498377a5903299e16111d67efadf136087af0911d7d624ce856",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold3.json": "ea958585769ec3a15ae69638027e0ba73f69915ee32e9d64b358503d19c4cb96",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold4.json": "5903ef0e17123d08d72ba57c1fa67edd7b3b494d28e7c2603dc88920402a252d",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold1.json": "344b83bebb2ee1b3cea49e3faba91155055da3cf236c35a19a2c814e49cca5b0",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold5.json": "57d501a19f583be6d5a0ef6ad1b1c7504c598123f643f676efc2b220eb7a7edc",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold1.json": "c52946697950cb91441231aac299baa70d55f66d9b73f5f8b667978c4d8d0cc4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/node_feature_zscore_fold4.json": "91856b504f0a9d5d69f4518ec28484daf195b359c9e391ddb11af4d74c6ec2d6",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/runs_ablation_v16_p11/s4_single_n1n2/v16_p11_s4_single_n1n2_seed123/intermediate/p_feature_zscore_fold3.json": "05ccb2f77a25e398a232d8af506f2ba7689735c2b3727558eb15414fd3d6ef6d"
+  },
+  "script_sha256": "e3ec294c69bf621263b2c6a4de1bfc41cf203c17823fed093d615278abb8df97",
+  "device": "GPU:0 (NVIDIA GeForce RTX 4090 D)",
+  "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+  "gpu_exclusive_checks": "No competing compute process before/after every repetition",
+  "timestamp": "2026-10-15T20:14:58+0800",
+  "cpu_threads": 2,
+  "structure_increment_s": 328.12,
+  "structure_increment_count": 1,
+  "single_lineage": "V16 s4_single_n1n2 / alias factor_S11",
+  "pair_lineage": "V16 s4_bal_unsigned_bal20000 / V17 main factor_P11",
+  "protocol": "P11/S11 ensemble; Retained V15 timing protocol: one warm-up + 20 repeats; resident seed123 five-fold models for both arms; sequential full live features + 2211 calibrated log2 predictions per arm + equal averaging; loading and acceptance excluded; shared structures generated once (328.12 s serial estimate outside measured inference)."
+}

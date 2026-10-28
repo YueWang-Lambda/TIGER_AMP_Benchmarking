@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "LLAMP",
+  "seed": 120,
+  "condition": "with_negatives",
+  "elapsed_seconds": 715.0411038398743,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_llamp_neg_s120_preds.csv"
+  ],
+  "source_manifest_sha256": "646846a401508a19b6a35cdb46bd6da9b9efefb2249e46961f438e5a3fbbb10a"
+}

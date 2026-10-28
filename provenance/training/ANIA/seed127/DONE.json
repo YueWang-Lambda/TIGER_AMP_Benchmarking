@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "ANIA",
+  "seed": 127,
+  "condition": "with_negatives",
+  "elapsed_seconds": 1389.01265335083,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/ania_neg/sota_ANIA+neg_s127_preds.csv"
+  ],
+  "source_manifest_sha256": "12e9567b5a4a40c5097fb03408c7041e8e0ce79f7872b45c08999c2e502809e0"
+}

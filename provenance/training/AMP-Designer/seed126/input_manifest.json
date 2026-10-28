@@ -1,0 +1,11 @@
+{
+  "method": "AMP-Designer",
+  "seed": 126,
+  "condition": "with_negatives",
+  "positive_unique": 4929,
+  "negative_pool": 7949,
+  "negative_sha256": "0be17bf832c9b11af30167f761c8e79dadd716a20341e966d30a5ef7fd2d75e6",
+  "exact_overlap": 0,
+  "method_specific_filters_retained": true,
+  "workspace": "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMP-Designer/seed126/workspace"
+}

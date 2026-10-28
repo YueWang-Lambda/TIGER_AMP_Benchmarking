@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "method": "AMPlify",
+  "seed": 123,
+  "condition": "with_negatives",
+  "elapsed_seconds": 1843.905529975891,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_amplify_regr_neg_s123_preds.csv"
+  ],
+  "source_manifest_sha256": "4aa9a93838ab321695a252792572cd65ea7af924ac00f8397e2bc9a0204ed230",
+  "training_device": "GPU:0",
+  "training_environment": "mbc_att_gpu_v15",
+  "tf_execution": "eager",
+  "runtime_environment_sha256": "297c48f0432a9799fba395086ea7c52020799e891d9a9bf93985f5396bfc8fa0"
+}

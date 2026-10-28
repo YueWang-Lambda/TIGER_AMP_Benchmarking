@@ -1,0 +1,219 @@
+{
+  "status": "PASS",
+  "method": "GGN-ABPMIC",
+  "seed": 123,
+  "condition": "with_negatives",
+  "repeats_s": [
+    102.3448497299105,
+    102.50241985078901,
+    102.11540128197521,
+    102.43798828916624,
+    102.94865840720013,
+    103.57653987593949,
+    102.91473119333386,
+    102.52655737800524,
+    102.48160917405039,
+    102.67435448197648,
+    102.90529247187078,
+    102.37563070189208,
+    102.6671083830297,
+    102.92576391808689,
+    102.66975477896631,
+    102.66618021111935,
+    102.50594262080267,
+    102.34835439175367,
+    102.58597142901272,
+    102.6436590240337
+  ],
+  "median_s": 102.6148152265232,
+  "min_s": 102.11540128197521,
+  "max_s": 103.57653987593949,
+  "device": "GPU:0 (RTX 4090 D)",
+  "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/sota_GGN-ABPMIC+neg_s123_preds.csv": "56ae152634560413efa84f93ace1a631963402b052f771cee990fb67c92e7b2e",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/loss_history_20261011_213535.csv": "ac0edfefa9cfe7920cf7775cc30479b7b26aa2b5fa417ad9211ee6b0df401fe2",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/training_results_20261011_213535.csv": "048badce2098c7b95444637bad306638cdc40efe0bf9e0641ead5bff391b7cb7",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split1_best.pth": "2e8c5616d9a3444b891c66ac43ecd93c242d8b3e0e4768ccdf0da015d6e4b31e",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/sequence_splits/random_split1_val_sequences.csv": "216093b0206af1d51da6ee3353609280b7735640009f26ae92e90dae882bad41",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/sequence_splits/random_split1_train_sequences.csv": "ce1dd4846c0271ebdcf6d1763050831ae485a6c2936d8305c7b8571ffd31f1e1",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_10.png": "bc36dbf9e72e170985e3811917a7b92c4fe871050e9edb582e2a19bd7907a06f",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_40.png": "78f43eaf847fcd5f20bf61199e438dcdc85d61483494a2f9d12a65cf31efbdb7",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_0.png": "36db1312668f9bb3e4b1086f29fb7cb47b14fb3970e43ed3062bb9f89450cf79",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_50.png": "afe4915593b487afc53f84eb09a3fa1096c2d753ddbbcae3dd8cbcd1b57ce254",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_30.png": "2dbb2cac34db7a42fa6d9474b1653ac4bf86ed7bd12f970c33af00e27d5691a9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/workspace/runs_review/benchmark_restricted/sota_models/ggn_neg/s123/random_split_1/epoch_20.png": "06ef7a8c790f15817081c8d734b07747ea8860ed566b119b3a739777caff4a78"
+  },
+  "checks": [
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611032082245914,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611004858970657,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611079364776626,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611109453659806,
+      "max_abs_pair_diff": 0.036683015709582656,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611120916091493,
+      "max_abs_pair_diff": 0.036683015709582656,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.00947477260894769,
+      "mean_abs_diff": 0.0005611073633560782,
+      "max_abs_pair_diff": 0.036682619704894504,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005610993396538969,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.000561094897961618,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611062171129095,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005610960442047867,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611077931972665,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.000561105643991325,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611004858970657,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611036380657798,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005610946114008257,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611096558424157,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611059305521172,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.00947477260894769,
+      "mean_abs_diff": 0.0005610997694950852,
+      "max_abs_pair_diff": 0.036682619704894504,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611145273758829,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611053574305329,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 0.009474891818237241,
+      "mean_abs_diff": 0.0005611027783834032,
+      "max_abs_pair_diff": 0.03668341171427081,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    }
+  ],
+  "peptide_tolerance": 0.02,
+  "protocol": "1 warm-up + 20 repeats; loaded evaluated seed123; live features + 2211 log2 pairs; model loading excluded; validation outside clock"
+}

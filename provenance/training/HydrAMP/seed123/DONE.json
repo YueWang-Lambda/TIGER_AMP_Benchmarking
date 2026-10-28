@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "HydrAMP",
+  "seed": 123,
+  "condition": "with_negatives",
+  "elapsed_seconds": 349.56652331352234,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_hydramp_regr_neg_s123_preds.csv"
+  ],
+  "source_manifest_sha256": "9cbf277c946fe8091a9b96d5266e9a634944b4a2e1cbcf6367da0e671be27493"
+}

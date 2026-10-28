@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "method": "MBC-Attention",
+  "seed": 129,
+  "condition": "with_negatives",
+  "elapsed_seconds": 161.96687006950378,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_mbc_attention_neg_s129_preds.csv"
+  ],
+  "source_manifest_sha256": "143d8b53352e2215a8e453d6ae20f733c0964e9a357784b6bb18cf3441555bdc",
+  "training_device": "GPU:1",
+  "training_environment": "mbc_att_gpu_v15",
+  "tf_execution": "graph",
+  "runtime_environment_sha256": "c3e00098b99620075a6244819c366d7c0157ee988869f397e73787c9a12d40d2"
+}

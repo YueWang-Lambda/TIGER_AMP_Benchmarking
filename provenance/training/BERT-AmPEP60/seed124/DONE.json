@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "BERT-AmPEP60",
+  "seed": 124,
+  "condition": "with_negatives",
+  "elapsed_seconds": 2288.150254011154,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_bert_ampep_neg_s124_preds.csv"
+  ],
+  "source_manifest_sha256": "348fc66a426b533b8e533de9a4278dae8e41a88f08ef2361872a36adbdedd6d7"
+}

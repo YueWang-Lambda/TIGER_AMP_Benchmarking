@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "Das",
+  "seed": 126,
+  "condition": "with_negatives",
+  "elapsed_seconds": 26.903812885284424,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_das_regr_s126_preds.csv"
+  ],
+  "source_manifest_sha256": "f2ac00c72c20a58782f029a03c8bbf1c75e307ce7380dbd81fa2e4927fddd83e"
+}

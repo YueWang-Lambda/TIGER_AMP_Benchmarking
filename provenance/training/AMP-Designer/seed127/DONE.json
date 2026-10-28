@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "AMP-Designer",
+  "seed": 127,
+  "condition": "with_negatives",
+  "elapsed_seconds": 359.5983145236969,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_amp_designer_neg_preds.csv"
+  ],
+  "source_manifest_sha256": "a9adfb9392b9c11a974b65994eacb05e75e9b02f25652599fa64d8ce929e5a7e"
+}

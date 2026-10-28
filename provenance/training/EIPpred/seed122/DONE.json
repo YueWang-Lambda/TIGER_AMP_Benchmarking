@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "EIPpred",
+  "seed": 122,
+  "condition": "with_negatives",
+  "elapsed_seconds": 42.275776386260986,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/eippred_neg/sota_EIPpred+neg_s122_preds.csv"
+  ],
+  "source_manifest_sha256": "4bc079a6bed8330b1c0fe46426537ecaeff05c5501817dcfd4e891b06e8ea6c4"
+}

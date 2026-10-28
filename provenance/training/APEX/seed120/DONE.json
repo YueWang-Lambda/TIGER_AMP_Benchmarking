@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "APEX",
+  "seed": 120,
+  "condition": "with_negatives",
+  "elapsed_seconds": 95.29573178291321,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_apex_neg_preds.csv"
+  ],
+  "source_manifest_sha256": "20c16c243d27113a26fc25ba4078c1dc18cda7cee72330620156e57ad5b5bd1b"
+}

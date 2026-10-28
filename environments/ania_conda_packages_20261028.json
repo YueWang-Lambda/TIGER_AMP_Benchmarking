@@ -1,0 +1,749 @@
+{
+  "environment": "ania",
+  "captured_date": "2026-10-28",
+  "scope": "Current conda metadata; historical job evidence is in training_environment_records.csv and environment_audit.json. Pip-only packages are not represented here.",
+  "packages": [
+    {
+      "name": "_openmp_mutex",
+      "version": "4.5",
+      "build": "20_gnu",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "_r-mutex",
+      "version": "1.0.1",
+      "build": "anacondar_1",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "binutils_impl_linux-64",
+      "version": "2.46.1",
+      "build": "default_hfdba357_102",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "bwidget",
+      "version": "1.10.1",
+      "build": "hfc2019e_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "bzip2",
+      "version": "1.0.8",
+      "build": "hda65f42_10",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "c-ares",
+      "version": "1.34.8",
+      "build": "hebe6cf0_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "ca-certificates",
+      "version": "2026.7.22",
+      "build": "hbd8a1cb_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "cairo",
+      "version": "1.18.6",
+      "build": "h3c89d7e_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "cffi",
+      "version": "2.1.1",
+      "build": "py312h703531f_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "curl",
+      "version": "8.22.0",
+      "build": "ha042cf0_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "font-ttf-dejavu-sans-mono",
+      "version": "2.37",
+      "build": "hab24e00_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "font-ttf-inconsolata",
+      "version": "3.000",
+      "build": "h77eed37_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "font-ttf-source-code-pro",
+      "version": "2.038",
+      "build": "h77eed37_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "font-ttf-ubuntu",
+      "version": "0.83",
+      "build": "h77eed37_3",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "fontconfig",
+      "version": "2.18.3",
+      "build": "h4db4eae_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "fonts-conda-ecosystem",
+      "version": "1",
+      "build": "0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "fonts-conda-forge",
+      "version": "1",
+      "build": "hc364b38_1",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "fribidi",
+      "version": "1.0.17",
+      "build": "h7cc23a3_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "gcc_impl_linux-64",
+      "version": "16.2.0",
+      "build": "h9891192_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "gfortran_impl_linux-64",
+      "version": "16.2.0",
+      "build": "hf930d89_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "graphite2",
+      "version": "1.3.15",
+      "build": "h54a6638_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "gsl",
+      "version": "2.7",
+      "build": "he838d99_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "gxx_impl_linux-64",
+      "version": "16.2.0",
+      "build": "h0d273dc_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "icu",
+      "version": "78.3",
+      "build": "py310h44b86e0_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "jinja2",
+      "version": "3.1.6",
+      "build": "pyhcf101f3_1",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "kernel-headers_linux-64",
+      "version": "6.12.0",
+      "build": "he073ed8_6",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "keyutils",
+      "version": "1.6.3",
+      "build": "h7cc23a3_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "krb5",
+      "version": "1.22.2",
+      "build": "hbc21106_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "ld_impl_linux-64",
+      "version": "2.46.1",
+      "build": "default_hbd61a6d_102",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "lerc",
+      "version": "4.2.0",
+      "build": "hdb68285_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libblas",
+      "version": "3.11.0",
+      "build": "11_h4a7cf45_openblas",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libcblas",
+      "version": "3.11.0",
+      "build": "11_h0358290_openblas",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libcurl",
+      "version": "8.22.0",
+      "build": "ha042cf0_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libdeflate",
+      "version": "1.25",
+      "build": "hd45a770_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libedit",
+      "version": "3.1.20260512",
+      "build": "pl5321h373387f_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libev",
+      "version": "4.33",
+      "build": "h280c20c_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libexpat",
+      "version": "2.8.5",
+      "build": "hd2095e1_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libffi",
+      "version": "3.7.0",
+      "build": "h81df57d_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libfreetype",
+      "version": "2.14.3",
+      "build": "ha770c72_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libfreetype6",
+      "version": "2.14.3",
+      "build": "h5e6c136_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgcc",
+      "version": "16.2.0",
+      "build": "ha9f2e26_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgcc-devel_linux-64",
+      "version": "16.2.0",
+      "build": "he3ce08f_107",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgcc-ng",
+      "version": "16.2.0",
+      "build": "h69a702a_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgfortran",
+      "version": "16.2.0",
+      "build": "h69a702a_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgfortran-ng",
+      "version": "16.2.0",
+      "build": "h69a702a_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgfortran5",
+      "version": "16.2.0",
+      "build": "h6b99dfc_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libglib",
+      "version": "2.90.0",
+      "build": "h569388d_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libgomp",
+      "version": "16.2.0",
+      "build": "he0feb66_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libharfbuzz",
+      "version": "14.6.0",
+      "build": "h23af247_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libiconv",
+      "version": "1.18",
+      "build": "h0cb94f2_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libjpeg-turbo",
+      "version": "3.2.0",
+      "build": "hb03c661_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "liblapack",
+      "version": "3.11.0",
+      "build": "11_h47877c9_openblas",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "liblzma",
+      "version": "5.8.3",
+      "build": "hb03c661_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libnghttp2",
+      "version": "1.68.1",
+      "build": "h74cf4be_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libnsl",
+      "version": "2.0.1",
+      "build": "hb9d3cd8_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libopenblas",
+      "version": "0.3.34",
+      "build": "pthreads_hf13c14d_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libpng",
+      "version": "1.6.59",
+      "build": "h922cc85_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libpsl",
+      "version": "0.23.1",
+      "build": "hd9e3e90_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libpython",
+      "version": "3.12.15",
+      "build": "h0c77377_1_cpython",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libsanitizer",
+      "version": "16.2.0",
+      "build": "h3048135_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libsqlite",
+      "version": "3.53.4",
+      "build": "h0737f62_102",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libssh2",
+      "version": "1.11.1",
+      "build": "h6154650_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libstdcxx",
+      "version": "16.2.0",
+      "build": "h934c35e_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libstdcxx-devel_linux-64",
+      "version": "16.2.0",
+      "build": "h86e191b_107",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libstdcxx-ng",
+      "version": "16.2.0",
+      "build": "hdf11a46_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libtiff",
+      "version": "4.7.2",
+      "build": "hcc2c06a_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libuuid",
+      "version": "2.42.4",
+      "build": "hcfc3c73_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libwebp-base",
+      "version": "1.6.0",
+      "build": "hd42ef1d_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libxcb",
+      "version": "1.17.0",
+      "build": "hb83e432_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libxcrypt",
+      "version": "4.4.38",
+      "build": "h280c20c_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "libzlib",
+      "version": "1.3.2",
+      "build": "h25fd6f3_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "make",
+      "version": "4.4.1",
+      "build": "hb03c661_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "markupsafe",
+      "version": "3.0.4",
+      "build": "py312hfd18d64_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "ncurses",
+      "version": "6.6",
+      "build": "hdb14827_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "openssl",
+      "version": "3.6.5",
+      "build": "h781a0a9_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "build": "pyhc364b38_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pango",
+      "version": "1.58.2",
+      "build": "h7bb47b9_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pcre2",
+      "version": "10.47",
+      "build": "h8b3dc9c_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pip",
+      "version": "26.2.1",
+      "build": "pyh8b19718_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pixman",
+      "version": "0.46.4",
+      "build": "h54a6638_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pthread-stubs",
+      "version": "0.4",
+      "build": "h7cc23a3_1004",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pycparser",
+      "version": "3.0",
+      "build": "pyhcf101f3_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "python",
+      "version": "3.12.15",
+      "build": "h5f976f7_1_cpython",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "python_abi",
+      "version": "3.12",
+      "build": "9_cp312",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "pytz",
+      "version": "2026.5",
+      "build": "pyh5ded981_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "r-base",
+      "version": "4.3.3",
+      "build": "h05019bb_23",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "readline",
+      "version": "8.3",
+      "build": "hd6e31c0_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "rpy2",
+      "version": "3.5.11",
+      "build": "py312r43hc7c0aa3_3",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "sed",
+      "version": "4.10",
+      "build": "h19d0853_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "setuptools",
+      "version": "84.0.0",
+      "build": "pyh332efcf_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "simplegeneric",
+      "version": "0.8.1",
+      "build": "pyhd8ed1ab_2",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "sysroot_linux-64",
+      "version": "2.39",
+      "build": "hc4b9eeb_6",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "tk",
+      "version": "8.6.13",
+      "build": "noxft_h1df4ec4_4",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "tktable",
+      "version": "2.10",
+      "build": "h0eb2ad0_11",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "tzdata",
+      "version": "2026c",
+      "build": "h151e31d_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "tzlocal",
+      "version": "5.4.4",
+      "build": "pyh8f84b5b_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "wheel",
+      "version": "0.48.0",
+      "build": "pyhd8ed1ab_0",
+      "subdir": "noarch",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libice",
+      "version": "1.1.2",
+      "build": "h280c20c_0",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libsm",
+      "version": "1.2.6",
+      "build": "h0d788c3_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libx11",
+      "version": "1.8.13",
+      "build": "he1eb515_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libxau",
+      "version": "1.0.12",
+      "build": "h7cc23a3_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libxdmcp",
+      "version": "1.1.5",
+      "build": "h7cc23a3_2",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libxext",
+      "version": "1.3.7",
+      "build": "h7cc23a3_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libxrender",
+      "version": "0.9.12",
+      "build": "hb03c661_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "xorg-libxt",
+      "version": "1.3.1",
+      "build": "h7cc23a3_1",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    },
+    {
+      "name": "zstd",
+      "version": "1.5.7",
+      "build": "hb78ec9c_7",
+      "subdir": "linux-64",
+      "channel": "https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/noarch"
+    }
+  ]
+}

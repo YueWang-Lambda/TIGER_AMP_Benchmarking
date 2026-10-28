@@ -1,0 +1,49 @@
+{
+  "status": "PASS",
+  "methods": 23,
+  "conditions": 2,
+  "seeds": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+  ],
+  "peptides": 208,
+  "families": 11,
+  "pairs": 2211,
+  "prediction_sets": 460,
+  "peptide_to_pair_checks": 420,
+  "family_metric_rows": 5060,
+  "numeric_reference_checks": 23660,
+  "ensemble_seeds": 10,
+  "timing_methods_verified": 23,
+  "undefined_correlations": [
+    {
+      "method": "AMPLiT",
+      "condition": "with_negatives",
+      "seed": 122,
+      "family": "Hydrodamin-3"
+    }
+  ],
+  "notebook": {
+    "executed_code_cells": 16,
+    "image_outputs": 14,
+    "errors": 0
+  },
+  "unit_tests": {
+    "passed": 7,
+    "failures": 0
+  },
+  "weights_included": false,
+  "isolated_git_checkout_reproduction": "PASS",
+  "training_configurations": 40,
+  "training_fold_index_files": 200,
+  "registered_training_backbones": 23,
+  "without_negative_driver_paths": 23
+}

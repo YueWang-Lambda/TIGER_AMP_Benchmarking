@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "SenseXAMP",
+  "seed": 123,
+  "condition": "with_negatives",
+  "elapsed_seconds": 2201.2188572883606,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_sensexamp_neg_s123_preds.csv"
+  ],
+  "source_manifest_sha256": "718708324398dde1c3579d6a80d7aca230121ce121e1836cb110a457189ff82a"
+}

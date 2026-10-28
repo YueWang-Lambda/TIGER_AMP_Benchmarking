@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "MBC-Attention",
+  "seed": 121,
+  "condition": "with_negatives",
+  "elapsed_seconds": 667.0978889465332,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_mbc_attention_neg_s121_preds.csv"
+  ],
+  "source_manifest_sha256": "7d024287ca02df0cad5341c40c3f3ce194304e23a202b5aee0db27b93c19f5d8"
+}

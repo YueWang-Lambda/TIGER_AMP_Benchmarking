@@ -1,0 +1,2 @@
+scope,arm,seed,action,reference,family,n_pairs,PCC,KCC,log10MAE,RSE,key,method,condition
+external,,122,retained_retrained,,Hydrodamin-3,55,,,0.35723722819693987,1.000137694146611,AMPLiT__with_negatives,AMPLiT,with_negatives

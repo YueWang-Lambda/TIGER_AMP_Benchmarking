@@ -1,0 +1,238 @@
+{
+  "status": "PASS",
+  "method": "AMPActiPred",
+  "seed": 123,
+  "condition": "with_negatives",
+  "repeats_s": [
+    0.3933947612531483,
+    0.39351912308484316,
+    0.39219671534374356,
+    0.3915180987678468,
+    0.3893149346113205,
+    0.3898120541125536,
+    0.3905516741797328,
+    0.39063539123162627,
+    0.39073948515579104,
+    0.4138035918585956,
+    0.3916008030064404,
+    0.3899218589067459,
+    0.3912762380205095,
+    0.3921729321591556,
+    0.39286331087350845,
+    0.3902353551238775,
+    0.39072286477312446,
+    0.39231602009385824,
+    0.3892598948441446,
+    0.39057003101333976
+  ],
+  "median_s": 0.39100786158815026,
+  "min_s": 0.3892598948441446,
+  "max_s": 0.4138035918585956,
+  "device": "CPU",
+  "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/binner.pkl": "3d5cb4cc46ba96c0e700809649af724a33da5e78b6265abc0d9185d811589ec9",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/param.pkl": "230a1de22efcb67ed101a041601c622dbbc3c8740223cf5715e8f5817c3c7750",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/4-1-rf.est": "07f43df1e167666c753921063b275d31cdb021c786166162fef3c636faaa3c06",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/5-0-rf.est": "839efef71f5ac6906862f9abe32b2b09b6b2fde3adb02b44257cd37cc568665d",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/1-0-rf.est": "50f49bf041f0697f0e83de4d0e9f3f7b8fe810eaa801074d0b168d237a647ce5",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/3-1-rf.est": "40bd8d2578d3289445483e0641a5a7b989d4c9f8d17abf5efe865c1dad7eae7f",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/4-0-rf.est": "5e8e50d40af59342921c5e272bbe4162f2eec9e4508f2a52da19499c1ba5e72a",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/3-1-erf.est": "a5e86d04c137376811f813717a4d35645e56dbc011c09eb7805dfd57a2c5c078",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/5-1-erf.est": "3f61d5e34aa1a0dfcc351b9ab2c23c1e24a5c4c444a2b9e2dd48735cf17adadf",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/6-0-erf.est": "aae1efab822d52e466b713be3d0197a4584f06b5ff17344d632106424a170107",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/0-1-erf.est": "76a878b63013ace8c698c036760cf2c75d48648715b992c8b706dabe10d49836",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/1-0-erf.est": "85e42861200b10cdb51ba90ef521b3768ee4b913dddad4b419fd039a9d45b80b",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/6-0-rf.est": "cf491b32c2e0d351d62ad31867215fd5bb0c24c78c4120cf0b6182d7f03d4e12",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/2-1-rf.est": "b61f942122a387a841a4289f8cb9b80c2fb3d985d930e713f5602627a5efb72e",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/5-1-rf.est": "df4515706aa44647d6903bab3f0cf625abfccffdf1fc53dd660fcf4ea5ebe230",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/6-1-erf.est": "67b259330713bca84c50822af11053f121a41d1cb35ee793d511d514516d3be5",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/2-0-rf.est": "affa3c394d82c9d590e885ca9a2ee3d0b88e510cd988d629b8cc0fa951391de2",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/1-1-erf.est": "4de4d804db0e2cfc4fae44805776f183944f856f6a457b44e9b6f04a598f6cd2",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/4-1-erf.est": "5b2c4f6be80575f47a8ede02daf96f7e78361cc6d010df446ba21420d0b13e18",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/5-0-erf.est": "e70637f713ba5dcbb842bb82823f7cd82ec2fb6fd944c1d696723791fc76133a",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/3-0-rf.est": "eb5c370322f78cf0d2aff38134c5b37b1b92ce2004bc6a7cb48c1cf911f6d415",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/3-0-erf.est": "d498d6d72215120ba9f31d088f85e5423a86c963fdd4a94341c6013527a5d9c7",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/0-0-erf.est": "9a77fae7df987c38e9bf0c0f71e1112fda2a1744d6afb8a76142436499502e36",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/2-1-erf.est": "c3bbd80ea8c54aeaabfb51e85d65c491b9d70db5c58cda1d62a2c22c663edeb6",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/0-0-rf.est": "afe11c4f22969ca34b04b504e8b0e43a077a6284dd9ddbbb7eb455d8b5cce616",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/2-0-erf.est": "cddd5c150e7ac440251ce9beaf5b1de97c319cce6c6b88c37e34da34ff9bc9f3",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/0-1-rf.est": "042067a6f1e07acb923fb370f6fc32a2f3ec1f31222f79ab4f79f156370e9beb",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/6-1-rf.est": "cef651b9a57f2712de787b18a075499a3357779342414d081b6a7af8179bb9be",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/1-1-rf.est": "1c0b9eeadec682c930d58a961c80b76ea5d16a13095aa0315471f1f9e1be5bb5",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/AMPActiPred/seed123/workspace/runs_review/benchmark_restricted/sota_models/ampacti_neg/model/estimator/4-0-erf.est": "0622d5e26dbd572d96774497fc08494917e1c40992ff32f1c9cb0bbd6e14d8d2"
+  },
+  "checks": [
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.07073016054759e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.390986802266385e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 4.963977946641325e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 8.881784197001252e-16,
+      "mean_abs_diff": 7.205774438672891e-17,
+      "max_abs_pair_diff": 3.552713678800501e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.07073016054759e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.390986802266385e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.28423458836012e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.07073016054759e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.28423458836012e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.177482374453855e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.28423458836012e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.07073016054759e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.604491230078915e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.177482374453855e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.92474787179771e-17,
+      "max_abs_pair_diff": 3.1086244689504383e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.390986802266385e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.390986802266385e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.71124344398518e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.07073016054759e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 6.661338147750939e-16,
+      "mean_abs_diff": 5.28423458836012e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 4.440892098500626e-16,
+      "mean_abs_diff": 4.963977946641325e-17,
+      "max_abs_pair_diff": 2.886579864025407e-15,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    }
+  ],
+  "peptide_tolerance": 0.001,
+  "protocol": "1 warm-up + 20 repeats; loaded evaluated seed123; live features + 2211 log2 pairs; model loading excluded; validation outside clock",
+  "acceptance_only": false
+}

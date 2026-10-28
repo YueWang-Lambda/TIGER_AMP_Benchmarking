@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+reproduced/
+.DS_Store
+# Model artifacts must remain outside this source-and-prediction release.
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.onnx
+*.cbm
+*.bin
+*.est
+checkpoint*
+checkpoints/
+weights/
+hf_cache/
+*.data-*-of-*

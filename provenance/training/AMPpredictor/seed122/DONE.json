@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "method": "AMPpredictor",
+  "seed": 122,
+  "condition": "with_negatives",
+  "elapsed_seconds": 500.3055167198181,
+  "raw_exports": [
+    "runs_review/benchmark_restricted/sota_models/amppredictor_neg/sota_AMPpredictor+neg_s122_preds.csv"
+  ],
+  "source_manifest_sha256": "e4e0e39d4cd7ba592e493434ebb07653180c6114fa6ad590a3440d0d5422065f"
+}

@@ -1,0 +1,17 @@
+component,package_directory,source_files,license_files,upstream_url_from_local_checkout,license_status
+EvoGradient,code/archive/architecture_dependencies/EvoGradient,8,code/archive/architecture_dependencies/EvoGradient/LICENSE,https://github.com/MicroResearchLab/AMP-potency-prediction-EvoGradient.git,Upstream file included
+external_models/apex-main,code/archive/architecture_dependencies/external_models/apex-main,6,code/archive/architecture_dependencies/external_models/apex-main/LICENSE,,Upstream file included
+external_models/AMP-Designer,code/archive/architecture_dependencies/external_models/AMP-Designer,16,code/archive/architecture_dependencies/external_models/AMP-Designer/LICENSE,https://github.com/jkwang93/AMP-Designer.git,Upstream file included
+external_models/AMP_regression_EC_SA,code/archive/architecture_dependencies/external_models/AMP_regression_EC_SA,79,,https://github.com/janecai0714/AMP_regression_EC_SA.git,No license file found in local source snapshot
+external_models/amplify_repo,code/archive/architecture_dependencies/external_models/amplify_repo,8,code/archive/architecture_dependencies/external_models/amplify_repo/LICENSE,,Upstream file included
+external_models/LLAMP,code/archive/architecture_dependencies/external_models/LLAMP,6,code/archive/architecture_dependencies/external_models/LLAMP/LICENSE,https://github.com/GIST-CSBL/LLAMP.git,Upstream file included
+external_models/sensexamp_repo,code/archive/architecture_dependencies/external_models/sensexamp_repo,87,,,No license file found in local source snapshot
+external_models/GGN-ABPMIC,code/archive/architecture_dependencies/external_models/GGN-ABPMIC,7,,https://github.com/LiJinYu1231/GGN-ABPMIC,No license file found in local source snapshot
+external_models/ampainter_repo,code/archive/architecture_dependencies/external_models/ampainter_repo,19,,,No license file found in local source snapshot
+external_models/AMPActiPred,code/archive/architecture_dependencies/external_models/AMPActiPred,2,,https://github.com/lantianyao/AMPActiPred,No license file found in local source snapshot
+external_models/ANIA,code/archive/architecture_dependencies/external_models/ANIA,22,code/archive/architecture_dependencies/external_models/ANIA/LICENSE,https://github.com/SilverGojo4/ANIA,Upstream file included
+external_models/Deep-PIE,code/archive/architecture_dependencies/external_models/Deep-PIE,1,code/archive/architecture_dependencies/external_models/Deep-PIE/LICENSE,https://github.com/larngroup/Deep-PIE.git,Upstream file included
+external_models/AMPredictor,code/archive/architecture_dependencies/external_models/AMPredictor,9,code/archive/architecture_dependencies/external_models/AMPredictor/LICENSE,https://github.com/ruihan-dong/AMPredictor,Upstream file included
+external_models/EIPpred,code/archive/architecture_dependencies/external_models/EIPpred,1,code/archive/architecture_dependencies/external_models/EIPpred/LICENSE,https://github.com/raghavagps/EIPpred,Upstream file included
+external_models/mbc_attention_repo,code/archive/architecture_dependencies/external_models/mbc_attention_repo,102,,,No license file found in local source snapshot
+EvoGradient_parent,code/archive/architecture_dependencies/EvoGradient_parent,8,code/archive/architecture_dependencies/EvoGradient_parent/LICENSE,https://github.com/MicroResearchLab/AMP-potency-prediction-EvoGradient.git,Upstream file included

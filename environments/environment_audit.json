@@ -1,0 +1,1994 @@
+{
+  "captured_at": "2026-10-12T03:29:52+08:00",
+  "scope": "v15 training drivers and in-driver predictions; canonical metrics separately in ccseg",
+  "method_count": 21,
+  "launch_record_count": 170,
+  "interpreter_mismatches": [],
+  "inherited_environment_tag_mismatches": [],
+  "methods": [
+    {
+      "method": "Das",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_das_regressor.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Das/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "LLAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "train_sota_bench_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/LLAMP/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "BERT-AmPEP60",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "train_sota_bench_neg.py",
+      "launch_records": 6,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/BERT-AmPEP60/seed125/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "Deep-PIE",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "train_sota_bench_neg.py",
+      "launch_records": 6,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/Deep-PIE/seed125/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "HydrAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_hydramp_regressor_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HydrAMP/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "MBC-Attention",
+      "environment": "mbc_att_gpu_v15",
+      "python": "3.9.23",
+      "device": "GPU（保留已完成CPU种子）",
+      "interpreter": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+      "driver": "retrain_mbc_attention_neg.py",
+      "launch_records": 7,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/MBC-Attention/seed126/invocation.json"
+        }
+      ],
+      "live_driver_pids": [
+        1624321
+      ],
+      "evidence": "启动记录核对；实际进程核对"
+    },
+    {
+      "method": "HyperAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_hyperamp_neg.py",
+      "launch_records": 6,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/HyperAMP/seed125/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "SenseXAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_sensexamp_neg.py",
+      "launch_records": 6,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/SenseXAMP/seed125/invocation.json"
+        }
+      ],
+      "live_driver_pids": [
+        1612255
+      ],
+      "evidence": "启动记录核对；实际进程核对"
+    },
+    {
+      "method": "AMPlify",
+      "environment": "mbc_att_gpu_v15",
+      "python": "3.9.23",
+      "device": "GPU（保留已完成CPU种子）",
+      "interpreter": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+      "driver": "retrain_amplify_regr_neg.py",
+      "launch_records": 3,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPlify/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": true,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPlify/seed121/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPlify/seed123/invocation.json"
+        }
+      ],
+      "live_driver_pids": [
+        1624319
+      ],
+      "evidence": "启动记录核对；实际进程核对"
+    },
+    {
+      "method": "EIPpred",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "CPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_eippred_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EIPpred/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "AMPActiPred",
+      "environment": "ampacti",
+      "python": "3.9.25",
+      "device": "CPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+      "driver": "retrain_ampacti_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+          "cuda_visible_devices": "-1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPActiPred/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "AMPGen",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_ampgen_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPGen/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "AMPpredictor",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_amppredictor_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMPpredictor/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "ANIA",
+      "environment": "ania",
+      "python": "3.12.15",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+      "driver": "retrain_ania_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/ANIA/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "tsAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_tsamp_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/tsAMP/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "GGN-ABPMIC",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_ggn_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/GGN-ABPMIC/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [
+        1539765,
+        1561656,
+        1569716
+      ],
+      "evidence": "启动记录核对；实际进程核对"
+    },
+    {
+      "method": "EvoGradient",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_evo_strict.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/EvoGradient/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "DeepAMP",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "retrain_deep_amp.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/DeepAMP/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "APEX",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "apex-main/train_apex_lrfix_neg.py",
+      "launch_records": 10,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed125/invocation.json"
+        },
+        {
+          "seed": "seed126",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed126/invocation.json"
+        },
+        {
+          "seed": "seed127",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed127/invocation.json"
+        },
+        {
+          "seed": "seed128",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed128/invocation.json"
+        },
+        {
+          "seed": "seed129",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/APEX/seed129/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "AMP-Designer",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "AMP-Designer/train_ampd_restricted_neg.py",
+      "launch_records": 6,
+      "observed_invocations": [
+        {
+          "seed": "seed120",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed120/invocation.json"
+        },
+        {
+          "seed": "seed121",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed121/invocation.json"
+        },
+        {
+          "seed": "seed122",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed122/invocation.json"
+        },
+        {
+          "seed": "seed123",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "1",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed123/invocation.json"
+        },
+        {
+          "seed": "seed124",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed124/invocation.json"
+        },
+        {
+          "seed": "seed125",
+          "python": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+          "cuda_visible_devices": "0",
+          "preserved_completed_cpu_seed": false,
+          "interpreter_match": true,
+          "device_selection_match": true,
+          "manifest": "artifacts/repair_v15/external_runs/AMP-Designer/seed125/invocation.json"
+        }
+      ],
+      "live_driver_pids": [],
+      "evidence": "启动记录核对"
+    },
+    {
+      "method": "AMPLiT",
+      "environment": "ccseg",
+      "python": "3.10.18",
+      "device": "GPU",
+      "interpreter": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "driver": "scripts/repair_v15/amplit.py",
+      "launch_records": null,
+      "live_driver_pids": [],
+      "evidence": "execute_job/common固定解释器"
+    }
+  ],
+  "environments": {
+    "ccseg": {
+      "name": "ccseg",
+      "executable": "/home/ubuntu/anaconda3/envs/ccseg/bin/python",
+      "real_executable": "/home/ubuntu/anaconda3/envs/ccseg/bin/python3.10",
+      "prefix": "/home/ubuntu/anaconda3/envs/ccseg",
+      "python": "3.10.18",
+      "versions": {
+        "numpy": "1.26.4",
+        "pandas": "2.2.2",
+        "scipy": "1.13.0",
+        "scikit-learn": "1.4.2",
+        "torch": "2.2.0",
+        "torch-geometric": "2.5.3",
+        "transformers": "4.45.2",
+        "rpy2": "3.6.8",
+        "gensim": "4.4.0",
+        "propy3": "1.1.1"
+      },
+      "cuda_visible_devices_probe": "0",
+      "conda_meta_exists": true,
+      "scope": "read-only imports and device discovery; no GPU tensor/model allocation",
+      "framework_import": {
+        "status": "PASS",
+        "module_file": "/home/ubuntu/anaconda3/envs/ccseg/lib/python3.10/site-packages/torch/__init__.py",
+        "version": "2.2.0+cu121"
+      },
+      "cuda": {
+        "compiled_version": "12.1",
+        "available": true,
+        "device_count": 1
+      }
+    },
+    "mbc_att": {
+      "name": "mbc_att",
+      "executable": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python",
+      "real_executable": "/home/ubuntu/anaconda3/envs/mbc_att/bin/python3.9",
+      "prefix": "/home/ubuntu/anaconda3/envs/mbc_att",
+      "python": "3.9.23",
+      "versions": {
+        "numpy": "1.24.3",
+        "pandas": "1.5.3",
+        "scipy": "1.13.1",
+        "scikit-learn": "1.6.1",
+        "tensorflow": "2.12.1",
+        "keras": "2.12.0"
+      },
+      "cuda_visible_devices_probe": "0",
+      "conda_meta_exists": true,
+      "scope": "read-only imports and device discovery; no GPU tensor/model allocation",
+      "framework_import": {
+        "status": "PASS",
+        "module_file": "/home/ubuntu/anaconda3/envs/mbc_att/lib/python3.9/site-packages/tensorflow/__init__.py",
+        "version": "2.12.1"
+      },
+      "cuda": {
+        "built_with_cuda": true,
+        "build_info": {
+          "cpu_compiler": "/dt9/usr/bin/gcc",
+          "cuda_compute_capabilities": [
+            "sm_35",
+            "sm_50",
+            "sm_60",
+            "sm_70",
+            "sm_75",
+            "compute_80"
+          ],
+          "cuda_version": "11.8",
+          "cudnn_version": "8",
+          "is_cuda_build": true,
+          "is_rocm_build": false,
+          "is_tensorrt_build": true
+        },
+        "visible_gpus": []
+      }
+    },
+    "ampacti": {
+      "name": "ampacti",
+      "executable": "/home/ubuntu/anaconda3/envs/ampacti/bin/python",
+      "real_executable": "/home/ubuntu/anaconda3/envs/ampacti/bin/python3.9",
+      "prefix": "/home/ubuntu/anaconda3/envs/ampacti",
+      "python": "3.9.25",
+      "versions": {
+        "numpy": "1.19.5",
+        "pandas": "1.4.4",
+        "scipy": "1.10.1",
+        "scikit-learn": "1.0.2",
+        "deep-forest": "0.1.5"
+      },
+      "cuda_visible_devices_probe": "0",
+      "conda_meta_exists": true,
+      "scope": "read-only imports and device discovery; no GPU tensor/model allocation",
+      "framework_import": {
+        "status": "PASS",
+        "module_file": "/home/ubuntu/anaconda3/envs/ampacti/lib/python3.9/site-packages/deepforest/__init__.py",
+        "version": null
+      }
+    },
+    "ania": {
+      "name": "ania",
+      "executable": "/home/ubuntu/anaconda3/envs/ania/bin/python",
+      "real_executable": "/home/ubuntu/anaconda3/envs/ania/bin/python3.12",
+      "prefix": "/home/ubuntu/anaconda3/envs/ania",
+      "python": "3.12.15",
+      "versions": {
+        "numpy": "2.5.3",
+        "pandas": "3.0.6",
+        "scipy": "1.18.1",
+        "scikit-learn": "1.9.1",
+        "torch": "2.5.1+cu121",
+        "rpy2": "3.5.11"
+      },
+      "cuda_visible_devices_probe": "0",
+      "conda_meta_exists": true,
+      "scope": "read-only imports and device discovery; no GPU tensor/model allocation",
+      "framework_import": {
+        "status": "PASS",
+        "module_file": "/home/ubuntu/anaconda3/envs/ania/lib/python3.12/site-packages/torch/__init__.py",
+        "version": "2.5.1+cu121"
+      },
+      "cuda": {
+        "compiled_version": "12.1",
+        "available": true,
+        "device_count": 1
+      }
+    },
+    "mbc_att_gpu_v15": {
+      "name": "mbc_att_gpu_v15",
+      "executable": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+      "real_executable": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python3.9",
+      "prefix": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15",
+      "python": "3.9.23",
+      "versions": {
+        "numpy": "1.24.3",
+        "pandas": "1.5.3",
+        "scipy": "1.13.1",
+        "scikit-learn": "1.6.1",
+        "tensorflow": "2.12.1",
+        "keras": "2.12.0"
+      },
+      "cuda_visible_devices_probe": "0",
+      "conda_meta_exists": true,
+      "scope": "read-only imports and device discovery; no GPU tensor/model allocation",
+      "framework_import": {
+        "status": "PASS",
+        "module_file": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/lib/python3.9/site-packages/tensorflow/__init__.py",
+        "version": "2.12.1"
+      },
+      "cuda": {
+        "built_with_cuda": true,
+        "build_info": {
+          "cpu_compiler": "/dt9/usr/bin/gcc",
+          "cuda_compute_capabilities": [
+            "sm_35",
+            "sm_50",
+            "sm_60",
+            "sm_70",
+            "sm_75",
+            "compute_80"
+          ],
+          "cuda_version": "11.8",
+          "cudnn_version": "8",
+          "is_cuda_build": true,
+          "is_rocm_build": false,
+          "is_tensorrt_build": true
+        },
+        "visible_gpus": [
+          "/physical_device:GPU:0"
+        ]
+      }
+    }
+  },
+  "status": "INTERPRETERS_MATCH_WITH_NOTES"
+}

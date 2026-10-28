@@ -1,0 +1,7 @@
+# Preserve archived bytes and their SHA-256 across clone / checkout.
+# Git can still display text diffs; automatic newline conversion is disabled.
+* -text
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.png binary

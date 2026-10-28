@@ -1,0 +1,213 @@
+{
+  "status": "PASS",
+  "method": "MBC-Attention",
+  "seed": 123,
+  "condition": "with_negatives",
+  "repeats_s": [
+    0.2223921581171453,
+    0.1683963881805539,
+    0.16919247526675463,
+    0.1689230208285153,
+    0.1676523988135159,
+    0.1677880920469761,
+    0.16764615708962083,
+    0.1707712421193719,
+    0.16745175374671817,
+    0.16892185900360346,
+    0.16686736419796944,
+    0.16787263005971909,
+    0.1698390208184719,
+    0.18170509580522776,
+    0.16752699483186007,
+    0.16692514065653086,
+    0.16869874205440283,
+    0.17201611632481217,
+    0.1680336012504995,
+    0.1697731176391244
+  ],
+  "median_s": 0.16854756511747837,
+  "min_s": 0.16686736419796944,
+  "max_s": 0.2223921581171453,
+  "device": "GPU:0 (RTX 4090 D)",
+  "python": "/home/ubuntu/anaconda3/envs/mbc_att_gpu_v15/bin/python",
+  "checkpoint_files": {
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed123/workspace/runs_review/benchmark_restricted/sota_models/mbc_attention_neg/mbc_s123/saved_model.pb": "9ac1a320dded8b9aea4697e2fca0be4ad3e0ff5356a6747caa8a349a93fd4be5",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed123/workspace/runs_review/benchmark_restricted/sota_models/mbc_attention_neg/mbc_s123/fingerprint.pb": "d5bbcbe581633c0ba1d5a0dabdfbb2fe2645e6b80bc2a4779213bb425e22ef96",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed123/workspace/runs_review/benchmark_restricted/sota_models/mbc_attention_neg/mbc_s123/keras_metadata.pb": "82fa457a55d674649849da2d0303705dfd4e44b3c444c8ae14a1c21845eb3de4",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed123/workspace/runs_review/benchmark_restricted/sota_models/mbc_attention_neg/mbc_s123/variables/variables.index": "35b6ec48b0c4de5fcee094fd71eda32ed5b009933091de2a0cf3b21d4b548369",
+    "/data4T/ubuntu/wangyue/postdoc_2025/TIGER_3D/TIGER_v2/deltaMIC/artifacts/repair_v15/external_runs/MBC-Attention/seed123/workspace/runs_review/benchmark_restricted/sota_models/mbc_attention_neg/mbc_s123/variables/variables.data-00000-of-00001": "ce08fda05990857f9de4c9bf30cdbc69bee13076c62b9a4e1b91caaec7496580"
+  },
+  "checks": [
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    },
+    {
+      "max_abs_peptide_or_tiger_pair_diff": 1.1533905028837665e-06,
+      "mean_abs_diff": 2.0109477409444234e-07,
+      "max_abs_pair_diff": 6.927519733257459e-06,
+      "n_pair": 2211,
+      "finite": true,
+      "independent_pair_algebra": true
+    }
+  ],
+  "peptide_tolerance": 0.001,
+  "protocol": "1 warm-up + 20 repeats; loaded evaluated seed123; live features + 2211 log2 pairs; model loading excluded; validation outside clock",
+  "acceptance_only": false
+}
